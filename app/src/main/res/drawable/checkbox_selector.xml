@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--checkbox的selector,现在使用的系统的，待修改为自己的-->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/icon_add_subscribe" android:state_checked="true" />
+    <item android:drawable="@drawable/icon_gou_subscribe" android:state_checked="false" />
+</selector>
